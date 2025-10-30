@@ -25,6 +25,10 @@ Simple CSV and visual output
 
 ## Program :
 
+#### Developed by : Rakshitha J
+#### Register no : 212223240135
+#### Date : 30-10-2025
+
 ```python
 !pip install cmake
 !pip install dlib
